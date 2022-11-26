@@ -1,3 +1,5 @@
+基于c语言的AES加密算法，目录中有visual stdio 工程，可直接下载测试
+
 #include <stdio.h>
 #include "aes.h"
 
